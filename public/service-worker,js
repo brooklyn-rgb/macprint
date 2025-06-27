@@ -1,0 +1,10 @@
+// public/service-worker.js (custom)
+self.addEventListener('sync', (event) => {
+  if (event.tag === 'sync-data') {
+    event.waitUntil(syncData());
+  }
+});
+
+async function syncData() {
+  // Implement your data sync logic here
+}
