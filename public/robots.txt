@@ -1,0 +1,14 @@
+# https://macprinters.co.za/robots.txt
+User-agent: *
+Allow: /            # Allows all pages by default
+Disallow: /api/     # Blocks API routes
+Disallow: /admin/   # Blocks admin pages (if any)
+Disallow: /private/ # Blocks any private paths
+
+# Google AdsBot-specific rules (optional)
+User-agent: adsbot-google
+Disallow: /checkout/
+Disallow: /cart/
+
+# Sitemap (update if using a custom sitemap)
+Sitemap: https://macprinters.co.za/sitemap.xml
