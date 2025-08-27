@@ -23,7 +23,7 @@ export default function GlobalPopup() {
       } else {
         clearInterval(intervalRef.current!);
       }
-    }, 2 * 60 * 10000); // every 2 mins
+    }, 10 * 600 * 10000); // every 2 mins
   };
 
   const handleClose = () => {
