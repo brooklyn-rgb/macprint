@@ -18,7 +18,7 @@ const FloatingChatWidget: React.FC<Props> = ({
   const defaultPlatforms: Platform[] = [
     {
       name: "WhatsApp",
-      url: "https://wa.me/27831234567",
+      url: "https://wa.me/27781515716",
       color: "#25D366",
       icon: FaWhatsapp as React.ComponentType<React.SVGProps<SVGSVGElement>>,
       ariaLabel: "Chat with us on WhatsApp",
