@@ -13,10 +13,10 @@ export default function Footer() {
               <h6 className="text-lg font-semibold mb-4">Contact Us</h6>
               <div className="flex flex-col space-y-2">
                 <Link 
-                  href="https://wa.me/27600872748?text=Hello%20AIE%20(Academic%20Institute%20of%20Excellence)" 
+                  href="https://wa.me/27781515716?text=Hello%20AIE%20(Academic%20Institute%20of%20Excellence)" 
                   className="hover:underline"
                 >
-                  WhatsApp: +27 78 457 4027
+                  WhatsApp: +27 78 151 5716
                 </Link>
                 <Link href="/page?id=10" className="hover:underline">
                   GP: +27 78 151 5716
