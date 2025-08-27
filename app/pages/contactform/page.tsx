@@ -45,13 +45,13 @@ export default function ContactForm() {
               <div className="ml-8 text-white">
                 <p>
                   <strong>JHB</strong>{' '}
-                  <a href="tel:+27 (0)87 255 2457" className="hover:underline text-white">
+                  <a href="tel:+27 (0)78 151 5716" className="hover:underline text-white">
                     +27 (0) 78 151 716
                   </a>
                   <br />
                   <strong>PHONE</strong>{' '}
-                  <a href="tel:+27 87 255 2457" className="hover:underline text-white">
-                    078 457 4027
+                  <a href="tel:+27 78 151 5716" className="hover:underline text-white">
+                    078 151 5716
                   </a>
                 </p>
               </div>
